@@ -1,3 +1,4 @@
+//lexicographical -- dictionary order -- take words in dictionary --> for abc next possible perm will be acb 
 //Find the pivot point->that is ascending order from right and the element which breaks the order will be pivot
 //find the elements that are larger than the pivot element in the right side of the array and swap them
 //reverse the array until the pivot 
