@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
