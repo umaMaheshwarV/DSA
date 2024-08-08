@@ -27,14 +27,14 @@ class Solution {
                 break;
             }
         }
-        System.out.println("reverse calling");
+       // System.out.println("reverse calling");
         //reverse the array from the pivot to the right most end
         reverse(nums,pivot+1,len-1);
         //return nums;
     }
     //reverse method
     public void reverse(int[] arr,int left,int right){
-        System.out.println("reverse call");
+        //System.out.println("reverse call");
         while(left<right){
             //System.out.println("reverse call in loop");
             swap(arr,left,right);
