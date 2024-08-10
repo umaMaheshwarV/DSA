@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,8 +32,25 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
