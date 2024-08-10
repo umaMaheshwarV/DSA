@@ -1,3 +1,7 @@
+//divide the array and count the pairs
+//[1,3,5,3,1] ==> [1,3,5][3,1] --> [1,3][5][3,1]--> INTO SINGLE ELEMENTS
+//IF LEFT ARRAY ELEMENT IS < THE 2* TIMES OF RIGHT ELEMENT INCREASE TJE COUNT
+//AFTER MERGING --> CHECK WITH OTHER RIGHT SUB ARRAY. EVERY ELEMENT OF LEFT SHOULD CHECK WITH EVERY OTHER ELEMENT OF RIGHT
 class Solution {
     public int reversePairs(int[] nums) {
         if (nums == null || nums.length == 0) return 0;
