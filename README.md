@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
