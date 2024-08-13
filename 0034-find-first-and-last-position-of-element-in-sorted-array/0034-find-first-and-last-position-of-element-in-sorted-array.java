@@ -1,3 +1,7 @@
+//We will intialize the array of len 2 and values to -1,-1, so at end if no index is found we will check the array and return rhe value
+//if mid == target then need to search for both left and right indx aas there is possibility on both sides
+// mid<target search in right side fo array
+//mid>target search in left side of array
 class Solution {
     public int[] helper(int[] nums,int target,int left,int right){
        int[] arr =new int[]{-1,-1};
