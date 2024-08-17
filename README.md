@@ -72,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -80,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
