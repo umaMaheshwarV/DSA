@@ -14,6 +14,7 @@
 | [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
