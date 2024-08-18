@@ -9,8 +9,8 @@ class Solution {
             if(inst.equals("UP")) upd-=n;
             if(inst.equals("LEFT")) upd-=1;
             if(inst.equals("RIGHT")) upd+=1;
-            //System.out.println("cojunt"+inst+"ssv"+upd);
         }
-        return upd;   
+        return upd; 
+        //(x * gridSize) + y;  
     }
 }
