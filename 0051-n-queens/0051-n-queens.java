@@ -3,6 +3,7 @@ class Solution {
     public List<List<String>> writeAns(char[][] chessBoard, int n, List<List<String>> finalList){
         List<String> list = new ArrayList<>();
         for(char[] row:chessBoard){
+            //Build a string builder and write all roe elements to list and follow on
             StringBuilder sb= new StringBuilder();
             for(char elem:row){
                 sb.append(elem);
