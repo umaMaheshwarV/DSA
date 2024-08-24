@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/umaMaheshwarV/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
