@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/umaMaheshwarV/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
@@ -71,10 +72,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -94,5 +97,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
