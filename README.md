@@ -95,10 +95,15 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/umaMaheshwarV/DSA/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/umaMaheshwarV/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
