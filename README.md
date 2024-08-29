@@ -87,12 +87,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
