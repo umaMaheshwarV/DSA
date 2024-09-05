@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -111,6 +113,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/umaMaheshwarV/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/umaMaheshwarV/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
