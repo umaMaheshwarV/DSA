@@ -97,6 +97,7 @@
 | [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/umaMaheshwarV/DSA/tree/master/1666-make-the-string-great) |
 | [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@
 | [0155-min-stack](https://github.com/umaMaheshwarV/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/umaMaheshwarV/DSA/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/umaMaheshwarV/DSA/tree/master/1666-make-the-string-great) |
 ## Backtracking
 |  |
 | ------- |
