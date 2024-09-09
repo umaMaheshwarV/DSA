@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/umaMaheshwarV/DSA/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
@@ -28,6 +29,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/umaMaheshwarV/DSA/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3533-snake-in-matrix](https://github.com/umaMaheshwarV/DSA/tree/master/3533-snake-in-matrix) |
 ## Binary Search
@@ -101,6 +103,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/umaMaheshwarV/DSA/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/umaMaheshwarV/DSA/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
