@@ -52,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/umaMaheshwarV/DSA/tree/master/1666-make-the-string-great) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/umaMaheshwarV/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/umaMaheshwarV/DSA/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
