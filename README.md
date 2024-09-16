@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/umaMaheshwarV/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/umaMaheshwarV/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/umaMaheshwarV/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -106,6 +109,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/umaMaheshwarV/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/umaMaheshwarV/DSA/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -132,4 +136,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/umaMaheshwarV/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/umaMaheshwarV/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
