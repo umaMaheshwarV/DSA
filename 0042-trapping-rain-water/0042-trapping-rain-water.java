@@ -1,4 +1,7 @@
+//Can improve the code by directly skipping the first and last index as everytime it willbe 0
+//instead of checking the
 class Solution {
+
     public int trap(int[] height) {
         int len = height.length;
         int left=0,right=len-1,leftMax=0,rightMax=0;
@@ -7,10 +10,10 @@ class Solution {
             leftMax = Math.max(leftMax,height[left]);
             rightMax = Math.max(rightMax,height[right]);
             if(height[left]>height[right]){
-                unit+= Math.min(leftMax,rightMax)-height[right];
+                unit+= rightMax-height[right];
                 right--;
             }else{
-                unit+= Math.min(leftMax,rightMax)-height[left];
+                unit+= leftMax-height[left];
                 left++;
             }
         }
