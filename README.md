@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/umaMaheshwarV/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/umaMaheshwarV/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@
 | [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/umaMaheshwarV/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/umaMaheshwarV/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umaMaheshwarV/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
