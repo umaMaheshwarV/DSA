@@ -1,8 +1,8 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int len=nums.length;
-        while(k>=len) {
-            k-=len;
+        if(k>=len) {
+            k%=len;
         }
         arrrev(len-k,len-1,nums);
         arrrev(0,len-k-1,nums);
