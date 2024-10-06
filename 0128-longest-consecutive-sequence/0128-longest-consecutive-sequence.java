@@ -10,7 +10,7 @@ class Solution {
             hset.add(num);
         }
         int longStreak = 0;
-        for(int num:nums){
+        for(int num:hset){
             if(!hset.contains(num-1)){
                 int currNum = num;
                 int currStreak = 1;
