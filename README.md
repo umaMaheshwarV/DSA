@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/umaMaheshwarV/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/umaMaheshwarV/DSA/tree/master/0189-rotate-array) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/umaMaheshwarV/DSA/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/umaMaheshwarV/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
