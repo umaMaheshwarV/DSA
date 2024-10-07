@@ -8,15 +8,15 @@ class Solution {
                 count+=1;
             }else{
                 count-=1;
-                System.out.println("majELme" + count);
+                //System.out.println("majELme" + count);
                 if(count<0){
                     count+=1;
                     majElem = nums[i];
-                    System.out.println("me" + majElem);
+                  //  System.out.println("me" + majElem);
                 }
             }
         }
-        System.out.println("fwe" + majElem);
+        //System.out.println("fwe" + majElem);
         return majElem;
     }
 }
