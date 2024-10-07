@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/umaMaheshwarV/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/umaMaheshwarV/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/umaMaheshwarV/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/umaMaheshwarV/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@
 | [0032-longest-valid-parentheses](https://github.com/umaMaheshwarV/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/umaMaheshwarV/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/umaMaheshwarV/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Indexed Tree
 |  |
 | ------- |
