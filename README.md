@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/umaMaheshwarV/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umaMaheshwarV/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/umaMaheshwarV/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/umaMaheshwarV/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/umaMaheshwarV/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/umaMaheshwarV/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/umaMaheshwarV/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/umaMaheshwarV/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/umaMaheshwarV/DSA/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/umaMaheshwarV/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/umaMaheshwarV/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/umaMaheshwarV/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/umaMaheshwarV/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/umaMaheshwarV/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -157,4 +160,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/umaMaheshwarV/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/umaMaheshwarV/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/umaMaheshwarV/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
